@@ -1,0 +1,24 @@
+{
+    "name": "Finanças do Casal",
+    "short_name": "Finanças",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#10352F",
+    "theme_color": "#10352F",
+    "description": "Contas, planejamento e calendário financeiro do casal.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/financas.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/financas.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
