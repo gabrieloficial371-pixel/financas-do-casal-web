@@ -10562,7 +10562,7 @@ case 4:A.bOx()
 m.pW("Aplicativo aberto")
 q=6
 s=9
-return A.c(A.aJK("sb_publishable_9nHhYyPfZ_yoqbgYe3Qg0Q_TrNochIZ","https://egjyqzlheosehxtawlqb.supabase.co"),$async$Ga)
+return A.c(A.aJK("sb_publishable_Ezs-KZixW0aToaRBD4POUA_1rN2qrJg","https://egjyqzlheosehxtawlqb.supabase.co"),$async$Ga)
 case 9:A.byR(B.a8i)
 q=1
 s=8
@@ -74322,7 +74322,7 @@ l="financas_do_casal_diagnostico_"+A.bI(j)+"-"+B.m.dE(B.w.j(A.cf(j)),2,"0")+"-"+
 p=4
 i=$.bkG()
 m.a.toString
-h=A.b([A.a5k(new Uint8Array(A.he(B.bW.cc(m.d.abJ("1.19.4+39")))),"text/plain")],t.FQ)
+h=A.b([A.a5k(new Uint8Array(A.he(B.bW.cc(m.d.abJ("1.19.5+40")))),"text/plain")],t.FQ)
 s=7
 return A.c(i.iK(A.bmW(A.b([l],t.s),h,u.W,null)),$async$HE)
 case 7:n.push(6)
@@ -74353,7 +74353,7 @@ H8(){var s=0,r=A.l(t.H),q,p=this,o
 var $async$H8=A.h(function(a,b){if(a===1)return A.i(b,r)
 for(;;)switch(s){case 0:p.a.toString
 s=3
-return A.c(A.vM(new A.pp(p.d.abJ("1.19.4+39"))),$async$H8)
+return A.c(A.vM(new A.pp(p.d.abJ("1.19.5+40"))),$async$H8)
 case 3:o=p.c
 if(o==null){s=1
 break}o=o.a8(t.J).f
